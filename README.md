@@ -64,5 +64,4 @@ This code is licensed under the [MIT License](https://opensource.org/licenses/MI
 ### Acknowledgments
 
 The code is based on an educational project for self-driving cars and AI. It utilizes the Kivy framework for graphical interface development and incorporates concepts from reinforcement learning.
-
-![](https://giphy.com/embed/JIocz9iY0tOuKAGvnm)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhlOGEyMTEwOGY3OTg5NzQwOTVlMDJlM2RkNWEwYzNmOWNlMTdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JIocz9iY0tOuKAGvnm/giphy.gif)
