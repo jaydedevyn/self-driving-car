@@ -8,6 +8,7 @@ This code represents a self-driving car simulation using the Kivy framework and 
 - Kivy framework
 - NumPy library
 - Matplotlib library
+- PyTorch Library
 
 ### Installation
 
